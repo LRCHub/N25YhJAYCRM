@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春の亡霊",
+  "base_artist": "Chevon",
+  "createdAt": "2026-03-18T15:40:57.282358Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春の亡霊",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_春の亡霊_Chevon.txt"
+    }
+  ]
+}
